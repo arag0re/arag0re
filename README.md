@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arag0re
 - 🍫 I love Chocolate and Coffee 
-- 🌱 I enjoy cycling, gaming and ofc developing
+- 🕹️ I enjoy cycling, gaming and ofc developing
 - 📫 You can reach me via my linked twitter or insta 
 
 <!---
