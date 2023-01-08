@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arag0re
 - 🍫 I love chocolate and coffee 
 - 🕹️ I enjoy cycling, gaming and ofc developing
-- 👨🏼‍💻 I'm currently working on a airplay mirroring implementation written in go
+- 👨🏼‍💻 I'm currently working on an airplay mirroring implementation written in go
 - 📫 You can reach me via my linked twitter or insta 
 
 <!---
