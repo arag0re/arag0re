@@ -3,8 +3,6 @@ Hi, my name is @arag0re. I'm a 23 y/o software developer pursuing an apprentices
 In my spare time beside coding i love to cycle and play some good games with fam&frens 🕹️
 > contact_info
 hit me up at 'arag0re@sternburg.beer'
-> views
-![](https://komarev.com/ghpvc/?username=arag0re)
 > quit
 Bye! 👋
 <!---
