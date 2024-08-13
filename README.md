@@ -6,6 +6,8 @@ arag0re@osx420:~$ contact-info
 Hit me up in twitter dms or via mail
 > email
 arag0re@sternburg.beer
+> pgp
+https://keys.openpgp.org/vks/v1/by-fingerprint/F41FC8E1877F68F47766AE5072CA3F4699D6F6C7
 > projects
 Currently working on a SWD probe implementation for flipper zero
 > quit
