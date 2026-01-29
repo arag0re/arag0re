@@ -1,6 +1,6 @@
 ```console
 arag0re@osx420:~$ whoami
-Hi, my name is arag0re. I'm a 25 y/o software developer and artist.
+Hi, my name is arag0re. I'm a 26 y/o software developer and artist.
 In my free time I like to ride my bike and play some good games with fam & frens 🕹️.
 arag0re@osx420:~$ contact-info
 Hit me up in twitter dms or via mail
